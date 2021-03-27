@@ -1,4 +1,4 @@
-#Basics
+# Basics
 
 	- Bash kya h?
 
@@ -6,7 +6,7 @@
 
 	- Kernel kya h?
 	- Conda jo 
-#Basics
+# Basics
 	Linux ka 
 
 	- 
