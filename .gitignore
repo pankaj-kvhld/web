@@ -1,2 +1,5 @@
 __pycache__/
 .flaskenv
+microblog/.vscode/launch.json
+microblog/.vscode/settings.json
+*.pyc
